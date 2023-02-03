@@ -14,4 +14,9 @@ GUI02 - QUAL É A DATA DO SEU NASCIMENTO
 As etapas estão separadas para cada fase de caso de teste, assim consigo simular uma entrega de uma Sprint. A ultima entrega do: GUI07 - CONFIRME SE OS DADOS ABAIXO SAO DA SUA EMPRESA, 
 tem um cenário que vai fazer o fluxo completo da etpa 1 até o final, confirmando o sucesso do fluxo por completo. 
 
+<h1>Cenários de testes</h1>
 
+Os cenários de testes foram organizados em uma documentação que informa detalhes sobre a estória (abertura de conta), cenário de teste (Gui001), depedendo de qual será o 
+caso de teste terá uma (pre-condição) em seguida os Steps (passo a passo) na técnica BDD.
+
+![image](https://user-images.githubusercontent.com/21660842/216614349-0f95d994-1663-45ff-abb9-a16cacbbd5ba.png)
