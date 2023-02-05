@@ -19,4 +19,4 @@ tem um cenário que vai fazer o fluxo completo da etpa 1 até o final, confirman
 Os cenários de testes foram organizados em uma documentação que informa detalhes sobre a estória (abertura de conta), cenário de teste (Gui001), depedendo de qual será o 
 caso de teste terá uma (pre-condição) em seguida os Steps (passo a passo) na técnica BDD.
 
-![image](https://user-images.githubusercontent.com/21660842/216614349-0f95d994-1663-45ff-abb9-a16cacbbd5ba.png)
+![image](https://user-images.githubusercontent.com/21660842/216843025-d6496055-2d78-4884-9348-bdfc15bfc934.png)
