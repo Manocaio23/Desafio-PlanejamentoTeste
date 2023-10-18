@@ -1,7 +1,7 @@
 # Desafio-PlanejamentoTeste
 Desafio de criar planejamentos de testes 
 
-O Objetivo do planejamento de teste é cobrir todos os cenários que são importantes para o cadastro de uma conta, com base nisso dividi as etapas em historias de usuário, 
+O Objetivo do planejamento de teste é cobrir todos os cenários que são importantes para o cadastro de uma conta, com base nisso dividir as etapas em historias de usuário, 
 no qual consigo ter um foco maior a cada uma delas. Por exemplo: 
 
 GUI01 - CONTE NOS QUAL SEU NOME COMPLETO </br>
